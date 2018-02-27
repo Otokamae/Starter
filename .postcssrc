@@ -1,0 +1,6 @@
+{
+"plugins": {
+"browsers": [">1%", "last 4 version", "Firefox ESR", "not ie < 9"],
+"flexbox": "no-2009"
+}
+}
